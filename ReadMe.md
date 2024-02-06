@@ -3,7 +3,6 @@
 The Humor Chatbot API is a playful project designed to inject humor into everyday interactions. Built for entertainment purposes, this chatbot generates witty and amusing responses to user queries, adding a lighthearted touch to conversations. Accessible through a user-friendly API, developers can easily integrate the chatbot into their target systems, enhancing user experiences with a dash of humor.
 
 ## Key Features:
-***
 
 ***Witty Responses***: The chatbot generates clever and humorous answers to user queries, providing a delightful experience for users seeking entertainment.
 
@@ -13,7 +12,6 @@ The Humor Chatbot API is a playful project designed to inject humor into everyda
 
 
 ## Benefits:
-***
 
 ***Easy Integration***: With a user-friendly API interface and clear documentation, developers can quickly integrate the chatbot into their applications without extensive setup or configuration.
 
@@ -22,7 +20,6 @@ The Humor Chatbot API is a playful project designed to inject humor into everyda
 ***Accessibility***: The simplicity and accessibility of the API enable developers to easily deploy the chatbot across various platforms and environments, reaching a wider audience.
 
 ## Setting Up the Humor Chat in Local
-***
 
 Follow these steps to set up the Fun Chatbot API in your system:
 
