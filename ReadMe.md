@@ -77,3 +77,5 @@ Follow these steps to set up the Fun Chatbot API in your system:
 > Next Updates:
 - Dockerfile (for containerizing the project)
 - how to use!
+- Output Samples
+- Documentation spots!
