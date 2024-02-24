@@ -48,10 +48,20 @@ Follow these steps to set up the Fun Chatbot API in your system:
     ```
     uvicorn app:app --reload
     ```
-6. **Navigate to browser**
-- Go to below link to load  API documentation provided by FastAPI
-> http://localhost:8000/docs
+### Interactive API docs
+***
 
+Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_blank">http://127.0.0.1:8000/docs</a>.
+
+You will see the automatic interactive API documentation (provided by <a href="https://github.com/swagger-api/swagger-ui" class="external-link" target="_blank">Swagger UI</a>):
+
+> ### Query :
+![Swagger UI](assets/query.JPG)
+
+> ### Response 1:
+![Swagger UI](assets/response.JPG)
+> ### Response 2. 
+![Swagger UI](assets/response-2.JPG)
 
 ### Built using :
 ***
@@ -70,12 +80,7 @@ Follow these steps to set up the Fun Chatbot API in your system:
   </div>
 </div>
 
-
-
-
 ***
 > Next Updates:
 - Dockerfile (for containerizing the project)
-- how to use!
-- Output Samples
-- Documentation spots!
+- Need to add good practices!
