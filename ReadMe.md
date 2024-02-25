@@ -82,5 +82,7 @@ You will see the automatic interactive API documentation (provided by <a href="h
 
 ***
 > Next Updates:
-- Dockerfile (for containerizing the project)
+- Dockerfile (for containerizing the project) 
 - Need to add good practices!
+- will be adding the k8s impl too
+- along with prometheus and grafana implementation
