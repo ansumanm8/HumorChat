@@ -3,6 +3,8 @@ import schemas
 from humorchatbot import generate_humorous_response
 import uvicorn
 
+""" API Integration implementation """
+
 app = FastAPI()
 
 @app.get('/')

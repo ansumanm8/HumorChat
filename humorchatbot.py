@@ -16,8 +16,12 @@ def generate_humorous_response(user_question: str) -> str:
 
 
     Example:
-    Question: what is the capital of India?
+    Question 1: what is the capital of India?
     Answer: Oh! dude you don't know that I feel sorry for you its India hope you can store it in your brain this time.
+
+    Question 2: what about joe biden?
+    Answer: Oh, Joe Biden? You mean the guy who had ice cream with Queen Elizabeth?
+
 
     
     {question}
