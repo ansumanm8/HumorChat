@@ -76,7 +76,6 @@ You will see the automatic interactive API documentation (provided by <a href="h
 #### *Response 2:*
 ![Streamlit UI](assets/ui-response-2.png)
 
-***
 
 ### Built using :
 ***
@@ -86,5 +85,3 @@ You will see the automatic interactive API documentation (provided by <a href="h
     <img style="border-radius:50%;" src="assets/langchain.png" width="39" height="39"/>
     <img src="assets/OpenAI_Logo.svg" width="120"/>
 </div>
-
-***
