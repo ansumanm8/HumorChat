@@ -12,16 +12,6 @@ The Humor Chatbot API is a playful project designed to inject humor into everyda
 
 ***API Integration***: The chatbot is exposed through a simple API, allowing developers to seamlessly integrate it into their applications, websites, or chat platforms.
 
-***Ease of Use***: Designed with simplicity in mind, the API offers straightforward endpoints and documentation, ensuring ease of integration and usage for developers of all skill levels.
-
-
-## Benefits:
-
-***Easy Integration***: With a user-friendly API interface and clear documentation, developers can quickly integrate the chatbot into their applications without extensive setup or configuration.
-
-***Enhanced User Experience***: By incorporating humor into conversations, applications powered by the chatbot offer a memorable and enjoyable experience for users.
-
-***Accessibility***: The simplicity and accessibility of the API enable developers to easily deploy the chatbot across various platforms and environments, reaching a wider audience.
 
 ## Setting Up the Humor Chat in Local
 
@@ -65,24 +55,11 @@ You will see the automatic interactive API documentation (provided by <a href="h
 
 ### Built using :
 ***
-<div style="display: flex; justify-content: left; align-items: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="assets/python.png" width="50"/>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
     <img src="assets/fastapi.png" width="50"/>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
     <img style="border-radius:50%;" src="assets/langchain.png" width="39" height="39"/>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="assets/OpenAI_Logo.svg" width="120"/>
-  </div>
 </div>
 
 ***
-> Next Updates:
-- Dockerfile (for containerizing the project) 
-- Need to add good practices!
-- will be adding the k8s impl too
-- along with prometheus and grafana implementation
